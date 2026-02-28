@@ -1,0 +1,22 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="gJaGYdNYSeHtoxnKzznT">
+    <mxGraphModel dx="794" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nXoY4yaU685nz3XcvlkL-1" value="图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="90" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nXoY4yaU685nz3XcvlkL-2" value="请求大模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="90" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nXoY4yaU685nz3XcvlkL-3" value="返回检测框中软管连接方式、颜色、软管外表形状" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="90" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nXoY4yaU685nz3XcvlkL-4" value="结合专家审核结果，请求大模型，给出多种语料组合方式。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="90" width="80" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
