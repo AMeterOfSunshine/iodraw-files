@@ -7,11 +7,11 @@
         <mxCell id="-DUpAyg1MrLIo_vd3bjD-1" value="用户对话日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="120" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-DUpAyg1MrLIo_vd3bjD-2" value="用户对话日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="130" width="90" height="40" as="geometry" />
+        <mxCell id="-DUpAyg1MrLIo_vd3bjD-2" value="意图理解&lt;div&gt;基础模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-DUpAyg1MrLIo_vd3bjD-3" value="用户对话日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="140" width="90" height="40" as="geometry" />
+          <mxGeometry x="340" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-DUpAyg1MrLIo_vd3bjD-4" value="用户对话日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="500" width="90" height="40" as="geometry" />
