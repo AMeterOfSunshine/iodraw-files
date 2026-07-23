@@ -10,11 +10,11 @@
         <mxCell id="WsYl95YyVuTW0v5Pxqti-2" value="&lt;h3&gt;&lt;span style=&quot;text-align: left;&quot;&gt;小模型&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WsYl95YyVuTW0v5Pxqti-3" value="大模型" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WsYl95YyVuTW0v5Pxqti-3" value="&lt;h3&gt;大模型&lt;/h3&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WsYl95YyVuTW0v5Pxqti-4" value="&lt;h3&gt;动作识别&lt;/h3&gt;判断是否有重型机械及正在工作&lt;br&gt;判断是否有小工具和小工具正在工作&lt;br&gt;判断是否有施工围挡" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="310" width="210" height="80" as="geometry" />
+          <mxGeometry x="140" y="310" width="210" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
