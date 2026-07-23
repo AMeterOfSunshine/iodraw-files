@@ -17,7 +17,7 @@
           <mxGeometry x="140" y="310" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="WsYl95YyVuTW0v5Pxqti-5" value="&lt;h3&gt;&lt;b&gt;示险逻辑&lt;/b&gt;&lt;/h3&gt;1、只要目标检测中存在施工围挡就示险&lt;div&gt;2、如果没有施工围挡，看动作识别，只要满足其中一条就示险&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="480" width="580" height="110" as="geometry" />
+          <mxGeometry x="140" y="480" width="580" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
