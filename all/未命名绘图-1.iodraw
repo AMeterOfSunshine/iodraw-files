@@ -11,7 +11,10 @@
           <mxGeometry x="410" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WsYl95YyVuTW0v5Pxqti-3" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WsYl95YyVuTW0v5Pxqti-4" value="动作识别" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
